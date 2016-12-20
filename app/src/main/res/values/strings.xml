@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Manila Central University</string>
+    <string name="mcu_history">     The <b>Manila Central University</b>, or MCU, formerly known as the <b>(Escuela de Farmacia del Liceo de Manila)</b> is a private, non-sectarian, non-stock educational institution situated in EDSA, Caloocan City, Philippines. It was founded and first directed in 1904 by Dr. Alejandro M. Albert.
+                                MCU is the first Pharmacy school run by Filipinos, and the first Nursing school that offered the 4-year Bachelor of Science in Nursing program in the Philippines.
+                                The patron of the university is <b>Minerva</b>.
+                                MCU is one of the former member universities of the University Athletic Association of the Philippines, from 1952 to 1962.
+                                In 1903, at the request of several students from the University of Santo Tomas and others, Dr. Alejandro M. Albert organized a private review class.
+                                The review class developed into the Escuela de Farmacia del Liceo de Manila in 1904, with Dr. Albert as the founder and director. Later on, due to the steady increase in enrollment, it was transformed into the Manila College of Pharmacy, with Dr. Leon Ma. L. Guerrero, Antonio C. Llamas, Feliciano P. Paterno and Atty. Filemon D. Tanchoco, Sr. as the incorporators. It was the first educational institution of its kind established and managed by Filipinos. Its initial organization was barely four years after the establishment of the Philippine education system.
+                                In 1929 its board of trustees, answering a long-felt need for the training of the youth for dental services, opened the college of Dentistry. Manila College of Pharmacy became then the Manila College of Pharmacy and Dentistry in the pre-war era. Second World War closed its portals in 1941.
+                                Duqring the Japanese occupation, the enemy looted its facilities, laboratory, equipment, and museums. During the liberation period, it was further looted of everything but the shell of its two buildings.
+                                After the liberation of the Philippines, the Board of Trustees reorganized the college into Manila Central Colleges.
+                                In addition to Pharmacy and Dentistry, the reorganized institution offered courses in liberal arts, education, commerce, business administration and postgraduate courses in pharmacy. In 1947, the College of Medicine was added. In 1948, it became the Manila Central University after opening the College of Nursing and Graduate School.
+                                In 1949, the MCU inaugurated its 10-hectare campus in Caloocan City. The colleges of Optometry and Midwifery, and the High School and Kindergarten departments were opened.</string>
+    <string-array name="preference_values">
+        <item><b>Torch of Knowledge</b>: <i>symbol for learning</i></item>
+        <item><b>Minerva</b>: Goddess of Wisdom</item>
+        <item><b>Cauduceus</b>: symbolizes the science courses offered by the university</item>
+        <item><b>Book</b>: for education courses</item>
+        <item><b>Mortar</b>: pharmacy logo (first college founded)</item>
+        <item><b>Academic Freedom</b>: circle (strong foundation), triangle (justice and equality)</item>
+        <item><b>Mercury</b>: fast delivery of service</item>
+        <item><b>Laurel and leaves</b>: prestige and honor</item>
+    </string-array>
+    <string-array name="courses">
+        <item>College of Medicine</item>
+        <item>College of Nursing</item>
+        <item>College of Pharmacy</item>
+        <item>College of Dentistry</item>
+        <item>College of Optometry</item>
+        <item>College of Medical Technology</item>
+        <item>College of Physical Therapy</item>
+        <item>College of Arts and Sciences</item>
+        <item>College of Business and Technology</item>
+        <item>Graduate School</item>
+        <item>High and Grade School Department</item>
+    </string-array>
+</resources>
